@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\bin\Debug\generic delegates.exe.config
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\bin\Debug\generic delegates.exe
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\bin\Debug\generic delegates.pdb
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\obj\Debug\generic delegates.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\obj\Debug\generic delegates.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\obj\Debug\generic delegates.exe
+C:\Users\lenovo\source\repos\generic delegates\generic delegates\obj\Debug\generic delegates.pdb
